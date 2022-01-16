@@ -1,0 +1,11 @@
+print('|1|Adittion')
+
+choice = input('Enter choice')
+
+num1 = float(input('Enter number 1')
+num2 = float(input('Enter number 2')
+
+if choice == '1':
+    print(num1+num2)
+
+
